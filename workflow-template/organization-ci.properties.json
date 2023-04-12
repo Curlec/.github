@@ -1,0 +1,11 @@
+{
+    "name": "Curlec Organization Workflow",
+    "description": "Curlec Organization CI starter workflow.",
+    "iconName": "octicon copilot",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+    ]
+}
